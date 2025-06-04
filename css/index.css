@@ -35,11 +35,11 @@ section {
 }
 
 .personalBlock{
-flex: 1;
+flex: 2;
 }
 .personalTitle{
-  font-size: 40px;
-  color: #e2e8f0; 
+  font-size: 45px;
+  color: #d3e1f4; 
 }
 
 .personalImage {
